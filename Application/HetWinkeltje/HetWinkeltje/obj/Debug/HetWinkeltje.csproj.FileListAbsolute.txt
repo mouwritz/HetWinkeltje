@@ -1,0 +1,9 @@
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\bin\Debug\HetWinkeltje.exe.config
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\bin\Debug\HetWinkeltje.exe
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\bin\Debug\HetWinkeltje.pdb
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.csproj.AssemblyReference.cache
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.Properties.Resources.resources
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.csproj.GenerateResource.cache
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.csproj.CoreCompileInputs.cache
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.exe
+C:\Users\Maurits\OneDrive\Documenten\HetWinkeltje\Application\HetWinkeltje\HetWinkeltje\obj\Debug\HetWinkeltje.pdb
